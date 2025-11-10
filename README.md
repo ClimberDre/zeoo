@@ -1,4 +1,4 @@
-# zeo
+# Zeo
 
 Smerovanie digitálnych návykov v bežnom živote
 
